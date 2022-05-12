@@ -31,7 +31,6 @@ int main(){
 	return 0;
 	
 }
-
 float hesaplama(float katsayi[],int kuvvet,float a1){
 	
 	int i,j;
@@ -112,4 +111,3 @@ void bisection(float a1,float a2,float hata,float katsayi[],int kuvvet){
 
 	
 }
-
