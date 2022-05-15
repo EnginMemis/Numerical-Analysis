@@ -112,9 +112,3 @@ void kokleriBulma(float matrix[20][20],int boyut,float kok[20]){
 		printf("x%d:%f ",i+1,kok[i]);
 	}
 }
-
-
-
-
-
-
