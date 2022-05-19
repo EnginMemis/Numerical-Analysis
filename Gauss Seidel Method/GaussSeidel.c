@@ -137,4 +137,3 @@ void tablo(float matris[100][100],float degerler[100],float eski[100],int boyut,
 	printf("\n");
 	
 }
-
