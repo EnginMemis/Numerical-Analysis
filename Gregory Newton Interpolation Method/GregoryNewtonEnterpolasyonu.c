@@ -121,21 +121,3 @@ float hesaplama(float degerler[100],float sonuclar[100],float fark[100][100],int
 	}
 	return sonuc;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
