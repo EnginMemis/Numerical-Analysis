@@ -147,7 +147,3 @@ void newton_raphson(float a,float hata,float katsayi[],float turevKatsayi[],int 
 		printf("%f",kok);
 		
 }
-
-
-
-
